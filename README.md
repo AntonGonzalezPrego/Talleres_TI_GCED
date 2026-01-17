@@ -26,6 +26,50 @@ Por este motivo, se aconseja encarecidamente utilizar el entorno propuesto, espe
 
 ---
 
+---
+
+## 🧩 Uso del repositorio durante el curso (importante)
+
+Este repositorio actúa como **repositorio base de la asignatura** y **no se utiliza directamente para trabajar en las prácticas**.
+
+Cada estudiante deberá:
+
+1. **Crear una copia propia del repositorio (fork)**  
+2. Trabajar siempre sobre **su propio repositorio**
+3. Crear su **Codespace asociado a ese repositorio personal**
+
+👉 Esto permite que cada estudiante tenga:
+- su propio espacio de trabajo
+- su propio historial
+- independencia total respecto a otros compañeros
+
+---
+
+### 🔐 Repositorio propio y privacidad
+
+Se recomienda que el repositorio personal sea **privado**, para evitar:
+- plagios involuntarios
+- compartir soluciones sin querer
+- accesos no deseados
+
+El profesor **no necesita acceso** a tu repositorio personal salvo que se indique explícitamente para alguna entrega.
+
+---
+
+### 📅 ¿Cuándo se hará esto?
+
+El proceso de:
+- crear el fork,
+- configurar el repositorio personal,
+- y crear el Codespace asociado,
+
+se explicará **paso a paso en el primer taller**.
+
+Por ahora, es suficiente con saber que:
+> **Para trabajar en las prácticas cada estudiante tendrá su propio repositorio y su propio Codespace.**
+
+---
+
 ## 🧠 Idea clave (muy importante)
 
 > **Con GitHub Codespaces el código se ejecuta en la nube, no en tu ordenador.**
